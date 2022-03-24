@@ -32,6 +32,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Retangulo.cpp" />
+		<Unit filename="Retangulo.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>

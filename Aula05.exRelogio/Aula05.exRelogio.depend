@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1649818161 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\aula05.exrelogio\relogio.cpp
+	<iostream>
+	"Relogio.h"
+
+1649816994 d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\aula05.exrelogio\relogio.h
+
+1649817139 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\aula05.exrelogio\main.cpp
+	<iostream>
+	"Relogio.h"
+

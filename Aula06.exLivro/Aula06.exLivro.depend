@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1649719022 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\aula06.2\main.cpp
+	<iostream>
+	<string>
+
+1649874092 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\aula06.exlivro\main.cpp
+	<iostream>
+	<string>
+	"Livro.h"
+
+1649871797 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\aula06.exlivro\livro.cpp
+	"Livro.h"
+
+1649874092 d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\aula06.exlivro\livro.h
+	<iostream>
+	<string>
+

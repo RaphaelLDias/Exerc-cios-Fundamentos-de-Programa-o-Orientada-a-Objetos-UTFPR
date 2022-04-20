@@ -11,7 +11,5 @@ int main()
    banco.deposito(200);
    banco.saque(50);
 
-   cout<< "Seu saldo: " << banco.getSaldo() << endl;
-
 return 0;
 }

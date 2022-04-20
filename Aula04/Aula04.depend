@@ -1,4 +1,10 @@
 # depslib dependency file v1.0
-1648077048 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\aula04\main.cpp
+1648089278 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\aula04\main.cpp
 	<iostream>
+	"Retangulo.h"
+
+1649808965 d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\aula04\retangulo.h
+
+1649808958 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\aula04\retangulo.cpp
+	"Retangulo.h"
 

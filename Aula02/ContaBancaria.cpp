@@ -1,18 +1,17 @@
 #include "Conta.h"
 
-public:
-void ContaBancaria::setSaldo(float s){
+void ContaBancaria::setSaldo(int s){
     saldo = s;
 }
 
-float ContaBancaria::getSaldo(){
-    return saldo;
+void ContaBancaria::mostrarSaldo(){
+     cout<< "Seu saldo: " << saldo << endl;
 }
 
-void ContaBancaria::deposito(float d){
-    saldo = saldo + d;
+void ContaBancaria::deposito(int d){
+    saldo = s + d;
 }
 
-void ContaBancaria::saque(float sa){
-    saldo = saldo - sa;
+void ContaBancaria::saque(int sa){
+    saldo = s - sa;
 }

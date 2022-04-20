@@ -1,46 +1,8 @@
 #include <iostream>
+#include "Carro.h"
 
 using namespace std;
 
-class Carro{
-    int peso;
-    float velocidade;
-    bool ligado;
-
-public:
-    Carro(){
-        peso = 0;
-        velocidade = 1;
-        ligado = true;
-        cout << "objeto carro criado construtor 1" << endl;
-    }
-    Carro(bool l){
-        peso = 0;
-        velocidade = 0;
-        ligado = l;
-        cout << "objeto carro criado construtor 2" << endl;
-    }
-    ~Carro(){
-        cout << "objeto carro finalizado" << endl;
-    }
-    void desligar(){
-        if(ligado == true)
-            ligado = false;
-    }
-    void ligar(){
-        ligado = true;
-    }
-    void frear(){
-        velocidade = velocidade--;
-    }
-    void acelerar(){
-        velocidade = velocidade++;
-    }
-    void setVlelocidade(float v){
-        if(velocidade > 0)
-            velocidade = v;
-    }
-};
 
 int main()
 {
@@ -58,5 +20,7 @@ int main()
 
     c2.acelerar();
     c1.frear();
+    c1.showVelocidade();
+
     return 0;
 }

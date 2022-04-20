@@ -11,17 +11,9 @@ class Relogio{
     bool validaSegundo();
 
 public:
-Relogio(){
-    hora=0;
-    minuto=0;
-    segundo=0;
-}
+Relogio();
 
-Relogio(int h, int m, int s){
-    hora = h;
-    minuto = m;
-    segundo = s;
-}
+Relogio(int, int, int);
     void incrementaHora();
 
     void incrementaMinuto();

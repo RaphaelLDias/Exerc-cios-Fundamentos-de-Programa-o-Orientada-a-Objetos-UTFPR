@@ -1,4 +1,11 @@
 # depslib dependency file v1.0
-1649344983 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\aula04.2\main.cpp
+1650414658 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\aula04.2\main.cpp
 	<iostream>
+	"Carro.h"
+
+1650414624 d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\aula04.2\carro.h
+	<iostream>
+
+1650414638 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\aula04.2\carro.cpp
+	"Carro.h"
 

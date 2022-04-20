@@ -7,7 +7,7 @@ class Retangulo{
 
     public:
         void definir_valores(int, int);
-        int area() {return largura*altura;}
+        int area();
 };
 
 #endif // RETANGULO_H_INCLUDED

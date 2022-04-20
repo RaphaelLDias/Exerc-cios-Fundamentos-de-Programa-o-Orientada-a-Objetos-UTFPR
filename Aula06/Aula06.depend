@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1649705881 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\aula04.2\aula06\circulo.cpp
+	"Circulo.h"
+
+1649705731 d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\aula04.2\aula06\circulo.h
+
+1650415341 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\aula06\circulo.cpp
+	"Circulo.h"
+
+1650415341 d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\aula06\circulo.h
+	<iostream>
+
+1649705888 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\aula06\main.cpp
+	<iostream>
+	"Circulo.h"
+

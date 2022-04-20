@@ -5,9 +5,22 @@ using namespace std;
 
 class ContaBancaria{
 
-    float saldo=0;
+    int saldo;
     //string correntista;
     //int numeroConta;
+
+public:
+    ContaBancaria(){
+        saldo = 0;
+    }
+
+    void setSaldo(int);
+
+    void mostrarSaldo();
+
+    void deposito(int);
+
+    void saque(int);
 
 };
 

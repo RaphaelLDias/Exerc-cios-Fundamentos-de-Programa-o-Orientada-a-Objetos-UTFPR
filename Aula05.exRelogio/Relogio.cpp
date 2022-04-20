@@ -3,6 +3,18 @@
 
 using namespace std;
 
+Relogio::Relogio(){
+    hora=0;
+    minuto=0;
+    segundo=0;
+}
+
+Relogio::Relogio(int h, int m, int s){
+    hora = h;
+    minuto = m;
+    segundo = s;
+}
+
 
     bool Relogio::validaHora(){
         if((hora>=0)&&(hora<24)){

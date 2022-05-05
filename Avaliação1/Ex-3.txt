@@ -1,0 +1,1 @@
+Ponto3D p[5]; ou Array (Ponto3D, 5) p;

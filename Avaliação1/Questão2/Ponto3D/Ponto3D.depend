@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1650486705 source:c:\users\aluno\desktop\raphaeldelimadias\ponto3d\ponto3d.cpp
+	"Ponto3D.h"
+
+1650486705 c:\users\aluno\desktop\raphaeldelimadias\ponto3d\ponto3d.h
+	<iostream>
+
+1651104537 source:c:\users\raphael\downloads\raphaeldelimadias\raphaeldelimadias\ponto3d\main.cpp
+	<iostream>
+	"Ponto3D.h"
+
+1651104491 c:\users\raphael\downloads\raphaeldelimadias\raphaeldelimadias\ponto3d\ponto3d.h
+	<iostream>
+
+1651104243 source:c:\users\raphael\downloads\raphaeldelimadias\raphaeldelimadias\ponto3d\ponto3d.cpp
+	"Ponto3D.h"
+
+1651110163 source:c:\users\raphael\downloads\raphaeldelimadias\raphaeldelimadias\questão2\ponto3d\main.cpp
+	<iostream>
+	"Ponto3D.h"
+
+1651104491 c:\users\raphael\downloads\raphaeldelimadias\raphaeldelimadias\questão2\ponto3d\ponto3d.h
+	<iostream>
+
+1651109966 source:c:\users\raphael\downloads\raphaeldelimadias\raphaeldelimadias\questão2\ponto3d\ponto3d.cpp
+	"Ponto3D.h"
+

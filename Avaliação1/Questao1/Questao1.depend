@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1649880710 source:c:\users\aluno\desktop\raphaeldelimadias\questao1\main.cpp
+	<iostream>
+	"Contador.h"
+
+1649883004 c:\users\aluno\desktop\raphaeldelimadias\questao1\contador.h
+	<iostream>
+
+1649882989 source:c:\users\aluno\desktop\raphaeldelimadias\questao1\contador.cpp
+	"Contador.h"
+
+1651101155 source:c:\users\raphael\downloads\raphaeldelimadias\raphaeldelimadias\questao1\contador.cpp
+	"Contador.h"
+
+1651101155 c:\users\raphael\downloads\raphaeldelimadias\raphaeldelimadias\questao1\contador.h
+	<iostream>
+
+1651101155 source:c:\users\raphael\downloads\raphaeldelimadias\raphaeldelimadias\questao1\main.cpp
+	<iostream>
+	"Contador.h"
+
+1651101155 source:c:\users\raphael\downloads\raphaeldelimadias\raphaeldias\questao1\contador.cpp
+	"Contador.h"
+
+1651101155 c:\users\raphael\downloads\raphaeldelimadias\raphaeldias\questao1\contador.h
+	<iostream>
+
+1651101155 source:c:\users\raphael\downloads\raphaeldelimadias\raphaeldias\questao1\main.cpp
+	<iostream>
+	"Contador.h"
+

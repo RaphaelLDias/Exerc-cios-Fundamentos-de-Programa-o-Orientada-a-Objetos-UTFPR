@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1654649226 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exerciciocarro\carro.cpp
+	"Carro.h"
+
+1654652220 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exerciciocarro\main.cpp
+	<iostream>
+	"Carro.h"
+	"Pneu.h"
+	"Motorista.h"
+
+1654646900 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exerciciocarro\pneu.cpp
+	"Pneu.h"
+
+1654649226 d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exerciciocarro\carro.h
+	<iostream>
+	"Pneu.h"
+
+1654648623 d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exerciciocarro\pneu.h
+	<iostream>
+
+1654652220 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exerciciocarro\motorista.cpp
+	"Motorista.h"
+
+1654652220 d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exerciciocarro\motorista.h
+	<string>
+	<iostream>
+	"Carro.h"
+

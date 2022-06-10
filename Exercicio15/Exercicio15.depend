@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1654734305 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exercicio13\main.cpp
+	<iostream>
+	"Data.h"
+
+1654734150 d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exercicio13\data.h
+	<iostream>
+
+1654734500 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exercicio13\data.cpp
+	"Data.h"
+
+1654734500 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exercicio14\data.cpp
+	"Data.h"
+
+1654734150 d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exercicio14\data.h
+	<iostream>
+
+1654738351 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exercicio14\main.cpp
+	<iostream>
+	"Data.h"
+	"Ingresso.h"
+
+1654737460 d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exercicio14\ingresso.h
+	<string>
+	"Data.h"
+
+1654738375 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exercicio14\ingresso.cpp
+	<iostream>
+	"Ingresso.h"
+	"Data.h"
+
+1654734500 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exercicio15\data.cpp
+	"Data.h"
+
+1654734150 d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exercicio15\data.h
+	<iostream>
+
+1654738375 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exercicio15\ingresso.cpp
+	<iostream>
+	"Ingresso.h"
+	"Data.h"
+
+1654737460 d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exercicio15\ingresso.h
+	<string>
+	"Data.h"
+
+1654738558 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exercicio15\main.cpp
+	<iostream>
+	"Data.h"
+	"Ingresso.h"
+
+1654739834 source:d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exercicio15\ingressovip.cpp
+	<iostream>
+	"IngressoVip.h"
+
+1654739098 d:\documentos\engenharia eletrônica\2022-1\fundamentos de programaÇÃo orientada a objetos\exercícios em aula\exercicio15\ingressovip.h
+	"Ingresso.h"
+
